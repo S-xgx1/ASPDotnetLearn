@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPDotnetLearn", "ASPDotnetLearn\ASPDotnetLearn.csproj", "{DD1C3A99-2A55-4D44-A44C-DF86BF252BD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient", "ConsoleClient\ConsoleClient.csproj", "{EF243C5F-E38F-40CE-A12E-28F4AF2E4CFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{225CD2EE-5D31-4E23-A0D1-8789AA47EE49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD1C3A99-2A55-4D44-A44C-DF86BF252BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1C3A99-2A55-4D44-A44C-DF86BF252BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1C3A99-2A55-4D44-A44C-DF86BF252BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1C3A99-2A55-4D44-A44C-DF86BF252BD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF243C5F-E38F-40CE-A12E-28F4AF2E4CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF243C5F-E38F-40CE-A12E-28F4AF2E4CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF243C5F-E38F-40CE-A12E-28F4AF2E4CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF243C5F-E38F-40CE-A12E-28F4AF2E4CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{225CD2EE-5D31-4E23-A0D1-8789AA47EE49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{225CD2EE-5D31-4E23-A0D1-8789AA47EE49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{225CD2EE-5D31-4E23-A0D1-8789AA47EE49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{225CD2EE-5D31-4E23-A0D1-8789AA47EE49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
